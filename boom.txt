@@ -1,0 +1,22 @@
+
+Ex 4.1          Class 8           Maths Question 1.
+Construct the following quadrilaterals.
+(i) Quadrilateral ABCD
+AB = 4.5 cm, BC = 5.5 cm, CD = 4 cm, AD = 6 cm, AC = 7 cm
+(ii) Quadrilateral JUMP
+JU = 3.5 cm, UM = 4 cm, MP = 5 cm, PJ = 4.5 cm, PU = 6.5 cm
+(iii) Parallelogram MORE
+OR = 6 cm, RE = 4.5 cm, EO = 7.5 cm
+(iv) Rhombus BEST
+BE = 4.5 cm, ET = 6 cm
+Solution:
+(i) We have to draw first rough sketch.
+NCERT Solutions for Class 8 Maths Chapter 4 Practical Geometry
+Construction:
+Step I: Draw AB = 4.5 cm
+Step II: Draw an arc with centre B and radius 5.5 cm.
+Step III: Draw another arc with centre A and radius 7 cm to meet the previous arc at C.
+Step IV: Draw an arc with centre C and radius 4 cm.
+Step V: Draw another arc with centre A and radius 6 cm to cut the former arc at D.
+Step VI: Join BC, AC, CD and AD.
+(ii) We have to draw the first rough sketch.
